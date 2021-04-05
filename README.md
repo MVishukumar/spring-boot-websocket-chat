@@ -2,7 +2,7 @@
 Spring Boot Application to demo WebSocket.
 
 
-## Application Output
+## Application Output.
 
 ### Login screen.
 ![Output screen](images/login-screen.png)
